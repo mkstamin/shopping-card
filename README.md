@@ -11,7 +11,7 @@ Follow the instructions below to run it:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/mkstamin/react-project-setup.git
+   git clone https://github.com/mkstamin/shopping-card.git
    ```
 2. Run
    ```sh
@@ -20,7 +20,7 @@ Follow the instructions below to run it:
 3. Run
    ```sh
    yarn start
-   ```   
+   ```
 4. It will be run in http://localhost:3000
 
 <!-- Editor Setup -->
